@@ -1,2 +1,2 @@
-# FishingPoint-app-support
-Fishing Point app support
+# FishingMapPoint-app-support
+Fishing Map Point app support
